@@ -1,0 +1,142 @@
+.заголовок_дз {
+	font-style: bold;
+	border-style: dashed;
+	padding: 5px;
+	color: #00FF00;
+}
+.dotted {
+	border-style: dotted;color: #138808;
+}
+.dashed {
+	border-style: dashed;color: #138808;
+}
+.solid {
+	border-style: solid;color: #138808;
+}
+.double {
+	border-style: double;color: #138808;
+}
+.border-radius {
+	border-style: solid;color: #138808;
+	border-radius: 30px;
+}
+.background-image {
+	background-image: url(https://w-dog.ru/wallpapers/9/17/322057789001671/zakat-nebo-solnce-luchi-oblaka-tuchi-pole-kolosya-zelenye-trava.jpg);
+}
+.не_видемый {
+	visibility: hidden;
+}
+.видемый {
+	visibility: visible;
+}
+.полоса_прокрутки {
+	overflow: scroll;
+	width: 500px;
+	height: 500px;
+	border: solid;
+}
+#курсор {
+	width: 25px;
+	height: 25px;
+	border: solid;
+}
+#defalt {
+	cursor: default;
+}
+#crosshair {
+	cursor: crosshair;
+}
+#help {
+	cursor: help;
+}
+#move {
+	cursor: move;
+}
+#pointer {
+	cursor: pointer;
+}
+#progress {
+	cursor: progress;
+}
+#text {
+	cursor: text;
+}
+#wait {
+	cursor: wait;
+}
+#n-resize {
+	cursor: n-resize;
+}
+#ne-resize {
+	cursor: ne-resize;
+}
+#e-resize {
+	cursor: e-resize;
+}
+#se-resize {
+	cursor: se-resize;
+}
+#s-resize {
+	cursor: s-resize;
+}
+#sw-resize {
+	cursor: sw-resize;
+}
+#w-resize {
+	cursor: w-resize;
+}
+#nw-resize {
+	cursor: nw-resize;
+}
+#цвет {
+	background-color: lawngreen;
+}
+#дом {
+	width: 100px;
+	height: 300px;
+	background-color: red;
+}
+#дом:hover {
+	width: 100px;
+	height: 300px;
+	background-color: lawngreen;
+}
+#иди_в_жопу {
+	letter-spacing: 5px;
+}
+#дом1 {
+	width: 100px;
+	height: 300px;
+	background-color: red;
+}
+#дом1:hover {
+	width: 100px;
+	height: 300px;
+	background-color: lawngreen;
+	transition-duration: 0.5s;
+}
+#право {
+	font-size: 30px;
+	color: blue;
+	font-style: italic;
+	text-align: right;
+}
+#лево {
+	font-size: 30px;
+	color: greenyellow;
+	font-style: italic;
+	text-align: left;
+}
+#центер {
+	font-size: 30px;
+	color: purple;
+	font-style: italic;
+	text-align: center;
+}
+#подчёркевание {
+	text-decoration: none;
+	color: orange;
+}
+#тень {
+	text-shadow: 1px 1px 2px black, 0 0 1em red;
+}
